@@ -1,6 +1,6 @@
+# array = [7, 8, 6, 2, 3, 5, 2, 3, 4, 5]
 import matplotlib.pyplot as plt
 import numpy as np
-# array = [7, 8, 6, 2, 3, 5, 2, 3, 4, 5]
 
 dados = {
     "Merge Sort": {"min": 714824, "max": 781739},

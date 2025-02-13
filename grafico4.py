@@ -1,4 +1,4 @@
-# de 0 a 8 em 10.000 posições
+# intervalo de 0 a 8 em 10.000 posições
 import matplotlib.pyplot as plt
 import numpy as np
 
